@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "7f14aeab525125c8b07e5ede",
+  "owner": "rybrewsmsrc",
+  "repo": "page-1864dd7314bd806601431dc1",
+  "title": "ikun",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1864dd7314bd806601431dc1",
+      "a": "ikun",
+      "b": "2027官方最新地址导航",
+      "entity": "ikun",
+      "brand": "ikun",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "bd7ec5bd148f0157791971c25542e2ceff42b60444df07215e7d9d163198e79a",
+      "content": {
+        "primary_entity": "ikun",
+        "keyword1": "ikun",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按日常设备挑选客户端，桌面、移动端分别配置对应订阅。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "从基础版起步，按设备数量与流量需求逐步升级到旗舰版或团队版。",
+          "AI_CLOSING_TITLE": "按需选择套餐",
+          "AI_DESCRIPTION": "，ikun 提供基础版、旗舰版与团队版三档订阅，月付与年付均可灵活切换。基础版每月 100GB 流量，支持 3 台设备；旗舰版每月 300GB，5 台设备同时在线，含 IPLC 专线；团队版每月 1000GB，20 台设备并支持定制路由。用户可先确认设备数量与流量消耗，再依客户端文档导入订阅，在手机、电脑或路由器上完成配置。",
+          "AI_FEATURES_INTRO": "三档订阅覆盖单人、家庭与团队场景，按设备数与流量直接对照即可。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版月付 ¥15，年付 ¥150，3 台设备共享 100GB 流量，适合手机与笔记本轻度使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版月付 ¥35，年付 ¥350，5 台设备共享 300GB，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版月付 ¥85，年付 ¥850，20 台设备共享 1000GB，支持定制路由与专属节点。",
+          "AI_FEATURE_TITLE_1": "基础版适用场景",
+          "AI_FEATURE_TITLE_2": "旗舰版核心权益",
+          "AI_FEATURE_TITLE_3": "团队版扩展能力",
+          "AI_GUIDE_INTRO": "先确认设备与流量需求，再导入订阅并完成客户端配置。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_HERO_INTRO": "ikun 提供多种订阅方案，覆盖手机、电脑与路由器等常见设备。按实际在线设备数和流量用量挑选套餐，再依客户端文档导入订阅，即可开始使用。",
+          "AI_HERO_SUBTITLE": "多设备订阅，按需匹配套餐。",
+          "AI_HIGHLIGHT_1": "三档订阅可选",
+          "AI_HIGHLIGHT_2": "年付节省约两月费用",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版按设备数和流量划分，月付与年付价格已在套餐中列出。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "对照基础版 3 台、旗舰版 5 台、团队版 20 台的设备上限，结合实际在线设备数量选定套餐档位。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、流媒体解锁范围和专线权益，确认是否满足日常使用。",
+          "AI_STEP_TEXT_3": "依对应客户端的配置文档导入订阅信息，在设备上完成连接并测试访问。",
+          "AI_STEP_TITLE_1": "选定套餐档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "ikun 多设备订阅方案",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备同时在线，年付 ¥150；旗舰版每月 300GB、5 台设备，年付 ¥350；团队版每月 1000GB、20 台设备，年付 ¥850。按人数和每月用量选即可。",
+          "AI_FAQ_ANSWER_2": "基础版适合 3 台以内设备，旗舰版最多 5 台，团队版可挂 20 台。手机、电脑加路由器通常占用 2 到 3 台，按实际连接数量选套餐更稳妥。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线节点池，针对游戏延迟做优化；基础版是普通线路节点池；团队版提供 VIP 专属高带宽节点。对延迟敏感优先旗舰版及以上。",
+          "AI_FAQ_ANSWER_4": "在手机或电脑上安装客户端后，把订阅地址粘贴到客户端的订阅导入位置，更新一次节点列表就能开始使用，无需逐条手动配置。",
+          "AI_FAQ_ANSWER_5": "可以。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，均比按月支付更省。团队版还支持企业定制路由与专属客户经理服务。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版差在哪里？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数量怎么选？",
+          "AI_FAQ_QUESTION_3": "需要低延迟游戏线路选哪个套餐？",
+          "AI_FAQ_QUESTION_4": "订阅地址怎么导入客户端？",
+          "AI_FAQ_QUESTION_5": "可以按年付费吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "15229888601.cn",
+    "host": "15229888601.cn"
+  },
+  "file_hashes": {
+    "index.html": "398b415dfd706c0c1859c6f8ff2bd04d3478e26f939312a5f1d7bb24a4de0ad6",
+    "sitemap.xml": "74b757a90d8d175dce491a6b665abcb82b506c0b7944f3c589ea12ec70cf6d35",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d8f56039d5b527f678a6f3bd5d917247befb724d690a7935fc9f3e0f85ecac21",
+    "robots.txt": "0bed9c282a8051a9e44a5e41eb6b9ff9c1916ce3d9941dca5cedb546c84b58ae",
+    "aa8da0854a7d219c38d2dc5885d39a54.txt": "90ff75e1c58879234dfa242c934b37183710294897cf87a3b131055e79db4c3a"
+  },
+  "revision": "d17748384182813672df533e0aa7db57eca515bfd92bf179f1f59a3d2986dfe9"
+}
